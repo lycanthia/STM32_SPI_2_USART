@@ -1,0 +1,1 @@
+Sc create SVNServer binpath= "\"C:\csvn\bin\svnserve.exe\" --service -r G:\working" displayname= "SVNServer" depend= Tcpip start= auto
